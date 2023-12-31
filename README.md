@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/Drum Kit Starting Files/imThumbnail.png?raw=true "Optional Title")
+![Alt text](/relative/path/to/DrumKitStartingFiles/imThumbnail.png?raw=true "Optional Title")
